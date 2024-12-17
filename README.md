@@ -1,4 +1,4 @@
-FlutterApp "Ku słońcu" :) 
+FlutterApp ‘Ku słońcu’ :) 
 
 FlutterApp - ‘Ku słońcu’ is a mobile application developed in the Android Studio environment. 
 
